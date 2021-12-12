@@ -7,10 +7,10 @@
 
 
 
-#Abstract
+## Abstract
 The aim of this research report is to develop deep neural architecture to obtain high accuracy for CIFAR10 dataset. The Baseline architecture of our network is MobileNetV2. The accuracy of our model is 95.48% which is 1.05% than the baseline model. The architecture uses the different data augmentation techniques. 
 
-#MobileNetV2 Architecture
+## MobileNetV2 Architecture
 ![Solution](https://raw.githubusercontent.com/Man1ish/cifar10-mobilenetv2/master/images/mobilenetv2_architecture.jpg)
 
 
