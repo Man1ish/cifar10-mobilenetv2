@@ -29,10 +29,10 @@ python main.py --resume --lr=0.01
 
 
 ## Accuracy
-![Solution](https://raw.githubusercontent.com/Man1ish/cifar10-mobilenetv2/master/accuracy.png)
+![Solution](https://raw.githubusercontent.com/Man1ish/cifar10-mobilenetv2/master/images/accuracy.png)
 
 ## Loss
-![Solution](https://raw.githubusercontent.com/Man1ish/cifar10-mobilenetv2/master/loss.png)
+![Solution](https://raw.githubusercontent.com/Man1ish/cifar10-mobilenetv2/master/images/loss.png)
 
 
 
